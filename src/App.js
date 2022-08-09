@@ -7,9 +7,9 @@ import Hero from './components/Hero';
 const App = () => {
 
     return( 
-        <div>
-    <Header />
-    <Hero />
+    <div>
+        <Header />
+        <Hero />
     </div>
     )
 };
